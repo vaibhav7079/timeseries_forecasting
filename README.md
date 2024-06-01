@@ -9,6 +9,7 @@ Date – Month & Year
 Electricity Consumption – Electricity consumption in Trillion Watts
 Business Objective: a. Need to forecast the demand of electricity for next 1-2 years. b. Calculate error metrics (RMSE, RMSPE, MAPE) c. Compare various models including Decomposition, ETS models, ARIMA/SARIMA Models with various parameters etc…
 
+
 Developed a comprehensive forecasting model to estimate electricity demand for the next 1-2 years based on historical data
 ranging from January 1973 to December 2019. Utilized various time series forecasting techniques including Decomposition, ETS models,
 and ARIMA/SARIMA models with different parameters to compare and select the most suitable model.
